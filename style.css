@@ -1,0 +1,13 @@
+.one
+{
+    width:425px;
+    height: 125px;
+    background-color:rgb(168, 168, 234);
+    color:white;
+    text-align: center;
+    margin:auto;
+    padding-top:30px;
+    margin:20 auto;
+    box-shadow:0 0 3px 3px blue;
+    border-radius:9px;
+}
